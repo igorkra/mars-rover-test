@@ -1,0 +1,32 @@
+body {
+    padding-top: 2rem
+}
+
+.rover-init {
+    background-color: #5bc0de;
+    color: #fff;
+}
+.rover {
+    background-color: #d9534f;
+    color: #fff;
+}
+
+
+.tip {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.table td,
+.table th {
+    font-size: 12px;
+    padding: .50rem .25rem;
+}
+
+#logContainer {
+    max-height: 200px;
+    overflow: auto;
+}
